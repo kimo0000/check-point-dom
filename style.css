@@ -1,0 +1,35 @@
+@import url("https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css");
+@import url("https://fonts.googleapis.com/css2?family=Georama:ital,wght@1,800&display=swap");
+.table {
+  /*box model*/
+  margin-top: 2%;
+}
+
+img {
+  width: 100px;
+  height: 100px;
+}
+
+.btnPlus,
+.btnMoins {
+  background-color: aqua;
+}
+.qte {
+  text-align: center;
+  border-style: solid;
+  height: 35px;
+}
+
+svg {
+  width: 30px;
+  height: 30px;
+}
+
+h1 {
+  color: blue;
+  font-family: "Georama", sans-serif;
+  text-align: center;
+}
+.couleur {
+  color: red;
+}
